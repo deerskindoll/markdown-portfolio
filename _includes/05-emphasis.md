@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+My awesome attributes: learning _new knitting techniques_ **fast**
+_**heck yeah**_
